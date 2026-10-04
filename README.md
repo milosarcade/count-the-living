@@ -4,6 +4,10 @@ A camp for families who keep arriving. Water comes by truck, when it comes.
 Food is dumped at the side of the road and whoever runs fastest eats.
 Build shelters, taps, latrines and a kitchen, and get everyone through one more day.
 
+You start on bare ground with eight families queuing at the Reception desk. Some people carry
+what they lived through: one runs when an engine starts, one wakes in the night, one can't face a
+crowd. Click a person to see what they carry.
+
 Play it: https://milosarcade.com/count-the-living/
 
 ## Controls
