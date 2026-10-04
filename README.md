@@ -14,9 +14,10 @@ Play it: https://milosarcade.com/count-the-living/
 | Scroll, pinch, + and - | Zoom |
 | Click a person or a building | See who they are and what they need |
 | Build panel | Pick something, then click the ground (right-click or Esc to stop) |
-| T / F / R | Call a water truck, repair a tap, ration water |
-| B / G / K / J | Buy grain, buy firewood, hand out kitchen sets, hand out soap |
+| Water and Food buttons | Call a water truck, repair a tap, buy grain or firewood, hand out kitchen sets or soap (no keyboard shortcuts, so money is never spent by accident) |
+| R | Ration water |
 | Tab / O | Plan view, overlays |
 | Space, 1 2 3, N | Pause, speed, skip to dusk |
+| H | How to play, and all the controls |
 
 Needs a keyboard and mouse. Made in Godot 4.7 (web export, single-threaded).
