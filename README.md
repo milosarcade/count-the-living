@@ -19,5 +19,9 @@ Play it: https://milosarcade.com/count-the-living/
 | Tab / O | Plan view, overlays |
 | Space, 1 2 3, N | Pause, speed, skip to dusk |
 | H | How to play, and all the controls |
+| M | Music on or off |
+
+Music: "Dusk at the Camp Boundary" and "Dusk Over the Tents" by day, "Underneath the Silver Glow"
+at night, and "Running on Empty" when the camp is close to breaking.
 
 Needs a keyboard and mouse. Made in Godot 4.7 (web export, single-threaded).
