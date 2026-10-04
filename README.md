@@ -22,6 +22,6 @@ Play it: https://milosarcade.com/count-the-living/
 | M | Music on or off |
 
 Music: "Dusk at the Camp Boundary" and "Dusk Over the Tents" by day, "Underneath the Silver Glow"
-at night, and "Running on Empty" when the camp is close to breaking.
+at night, and "Running on Empty" when tension goes above 70%.
 
 Needs a keyboard and mouse. Made in Godot 4.7 (web export, single-threaded).
