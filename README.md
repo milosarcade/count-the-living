@@ -1,6 +1,8 @@
 # Count the Living
 
-A camp for families who keep arriving. Water comes by truck, when it comes.
+A camp for families who keep arriving. Water comes by truck, when it comes, and a family spends it
+the way aid workers count it: a little to drink, some to cook, the rest to wash. Short of water they
+stop washing first, so dirt and diarrhoea come long before thirst.
 Food is dumped at the side of the road and whoever runs fastest eats.
 Build shelters, taps, latrines and a kitchen, and get everyone through one more day.
 
