@@ -30,13 +30,14 @@ Play it: https://milosarcade.com/count-the-living/
 | Scroll, pinch, + and - | Zoom |
 | Click a person or a building | See who they are and what they need |
 | Click a tearing plastic shelter | Patch it ($1) |
+| Click fouled ground | Clean it up with lime ($1 a shovel); clear patches quickly for a streak |
 | Build panel | Pick something, then click the ground (right-click or Esc to stop) |
 | Water and Food buttons | Call a water truck, repair a tap, buy grain or firewood, hand out kitchen sets or soap (no keyboard shortcuts, so money is never spent by accident) |
 | R | Ration water |
 | Tab / O | Plan view, overlays |
 | Space, 1 2 3, N | Pause, speed, skip to dusk |
 | H | How to play, and all the controls |
-| M | Music on or off |
+| M | Music and sound on or off |
 
 On a tablet or phone, hold it sideways: drag with one finger to move, pinch to zoom, tap people,
 buildings and the ground, and use the buttons for help, pause, speed and music. On a phone the
