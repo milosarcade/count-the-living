@@ -6,7 +6,7 @@ home a jerrycan at a time, and a family spends it the way aid workers count it: 
 some to cook, the rest to wash. Short of water, or too far from a tap, they stop washing first, so
 dirt and diarrhoea come long before thirst.
 Food is dumped at the side of the road and whoever runs fastest eats.
-Build shelters, taps, latrines and a kitchen, and get everyone through one more day.
+Build shelters, taps, latrines, a health post and a kitchen, and get everyone through one more day.
 
 You start on bare ground with eight families queuing at the Reception desk and $2,000, and no
 latrines: people need one from the first hour, and without one they go in the open, where the flies
@@ -34,7 +34,7 @@ Play it: https://milosarcade.com/count-the-living/
 | Click a tearing plastic shelter | Patch it ($2) |
 | Click fouled ground | Clean it up with lime ($1 a shovel); clear patches quickly for a streak |
 | Build panel | Pick something, then click the ground (right-click or Esc to stop) |
-| Water and Food buttons | Call a water truck, repair a tap, buy grain or firewood, hand out kitchen sets or soap (no keyboard shortcuts, so money is never spent by accident) |
+| Supplies buttons | Call a water truck, repair a tap, buy grain or firewood, hand out kitchen sets, order ORS and zinc for the health post, hand out soap (no keyboard shortcuts, so money is never spent by accident) |
 | R | Ration water |
 | Tab / O | Plan view, overlays |
 | Space, 1 2 3, N | Pause, speed, skip to dusk |
@@ -45,8 +45,8 @@ On a tablet or phone, hold it sideways: drag with one finger to move, pinch to z
 buildings and the ground, and use the buttons for help, pause, speed and music. On a phone the
 panels start folded; tap their titles to open them.
 
-Music: "Dusk at the Camp Boundary" and "Dusk Over the Tents" by day, "Underneath the Silver Glow"
-at night, and "Running on Empty" when tension goes above 70%.
+Music (instrumental versions): "Dusk at the Camp Boundary" and "Dusk Over the Tents" by day,
+"Underneath the Silver Glow" at night, and "Running on Empty" when tension goes above 70%.
 
 Plays with a keyboard and mouse, or by touch on a tablet or phone. Made in Godot 4.7 (web export,
 single-threaded).
